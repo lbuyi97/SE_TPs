@@ -24,7 +24,7 @@ texto ....
 
 ## *Ejercicio 7*
 
-La escalera mecánica tiene dos velocidades, una
+La escalera mecánica (unidireccional) tiene dos velocidades, la primera (la más lenta) cuando no hay nadie subiendo (indicada con LEDG) y la otra (la rápida) cuando hay personas subiendo. El botón TEC1 representa los ingresos y el TEC2 los egresos (podrían ser sensores). Mientras los que hayan ingresado no hayan salido, la escalera va a estar en la segunda velocidad con la señalización luminosa encendida (LED1). Si todos los que ingresaron ya subieron, entonces se apaga la señalización luminosa y se cambia a la primera velocidad.
 
 
 ## *Ejercicio 8*
