@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::c {
+
+	statechart PortonLevadizo {
+
+		feature Outlet {
+			targetProject = "firmware_v3"
+			targetFolder = "examples/c/sapi/statecharts/8_Porton_Levadizo/gen"
+			libraryTargetFolder = "examples/c/sapi/statecharts/8_Porton_Levadizo/inc"
+		}
+	}
+}
